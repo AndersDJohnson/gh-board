@@ -32,7 +32,7 @@
     "moment": "2.10.3",
     "octicons": "git://github.com/github/octicons#v3.1.0",
     "octokat": "^0.4.10",
-    "react": "^0.13.3",
+    "react": "^19.3.1",
     "react-bootstrap": "^0.25.1",
     "react-dnd": "^1.1.2",
     "react-router": "^0.13.3",
